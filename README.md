@@ -41,11 +41,9 @@ This project demonstrates the integration of application logic, database connect
 --> **SQL Server Management Studio (SSMS)** - Database Administration  
 
 ## Future Development
---> Development of a web-based interface integration with frontend frameworks with Angular
+--> Development of a web-based interface integration with frontend frameworks with **Angular**
 
---> Implementation of an ASP.NET Web API to expose backend functionality
-
---> Addition of authentication and role-based access control
+--> Implementation of an **ASP.NET Web API** to expose backend functionality
 
 --> Extension of transport management features, including driver and route management
 
