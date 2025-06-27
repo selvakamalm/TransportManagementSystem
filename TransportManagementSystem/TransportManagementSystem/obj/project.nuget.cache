@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HS2Ab2r25Am05rHAONQ1SntAx+oit1Wa9a0mmA8E3Ve8CN5Jh3fb7C0zMUvJnqcQ2+EYF3Bj1hB/se6lEFiz+w==",
+  "success": true,
+  "projectFilePath": "C:\\C# project\\TransportManagementSystem\\TransportManagementSystem\\TransportManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selva\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\selva\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\selva\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\selva\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\selva\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

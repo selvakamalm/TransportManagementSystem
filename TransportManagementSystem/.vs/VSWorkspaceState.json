@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TransportManagementSystem",
+    "\\TransportManagementSystem.test",
+    "\\TransportManagementSystem\\entity",
+    "\\TransportManagementSystem\\exception",
+    "\\TransportManagementSystem\\MAIN",
+    "\\TransportManagementSystem\\util"
+  ],
+  "SelectedNode": "\\TransportManagementSystem\\MAIN\\TransportManagementApp.cs",
+  "PreviewInSolutionExplorer": false
+}
